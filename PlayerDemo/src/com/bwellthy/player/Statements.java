@@ -17,4 +17,6 @@ public class Statements {
 	public void setStatement(ArrayList<Statement> statement) {
 		this.statement = statement;
 	}
+	
+	
 }
